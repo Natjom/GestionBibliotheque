@@ -19,6 +19,8 @@ public class MoteurGraphique
 
     public void Lancer()
     {
+        Console.Clear();
+        
         Thread threadMoteur = new Thread(() =>
         {
             while (true)
