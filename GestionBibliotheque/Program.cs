@@ -1,4 +1,4 @@
-﻿using GestionBibliotheque;
+﻿namespace GestionBibliotheque;
 
 class Program
 

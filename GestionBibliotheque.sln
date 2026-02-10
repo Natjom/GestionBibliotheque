@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperUnivers", "SuperUniver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upper", "Upper\Upper.csproj", "{F8BC7ACF-47C4-45B3-A832-9BEA62EFCF65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alzheimer", "Alzheimer\Alzheimer.csproj", "{0C201042-2A50-4667-9F4D-FE16947842FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{F8BC7ACF-47C4-45B3-A832-9BEA62EFCF65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8BC7ACF-47C4-45B3-A832-9BEA62EFCF65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8BC7ACF-47C4-45B3-A832-9BEA62EFCF65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C201042-2A50-4667-9F4D-FE16947842FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C201042-2A50-4667-9F4D-FE16947842FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C201042-2A50-4667-9F4D-FE16947842FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C201042-2A50-4667-9F4D-FE16947842FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
